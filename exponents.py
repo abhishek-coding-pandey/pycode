@@ -1,0 +1,6 @@
+print('this program will help you in exponents')
+print('enter the base' )
+e=int(input())
+print('enter the exponent')
+b= int(input())
+print('your answer is', int(e)**int(b))
